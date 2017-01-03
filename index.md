@@ -16,6 +16,6 @@ This site was developed during the [Population Genetics R hackathon](https://git
 
 ## Publication
 
-We published an article describing this project in the **Molecular Ecology Resources** special issue, *Population Genomics with R*:
+An overview of and a detailed rationale for the building blocks of this resource and how they click together are described in our publication for the **Molecular Ecology Resources** special issue, *Population Genomics with R*:
 
 > Kamvar, Z. N., López-Uribe, M. M., Coughlan, S., Grünwald, N. J., Lapp, H., & Manel, S. (2016). Developing educational resources for population genetics in R: An open and collaborative approach. *Molecular Ecology Resources.* <https://doi.org/10.1111/1755-0998.12558>
