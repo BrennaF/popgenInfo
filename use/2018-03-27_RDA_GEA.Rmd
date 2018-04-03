@@ -1,9 +1,6 @@
 ---
 title: "Detecting multilocus adaptation using Redundancy Analysis (RDA)"
 show_toc: true
-output:
-  knitr:::html_vignette:
-    toc: yes
 ---
 
 ## Introduction
