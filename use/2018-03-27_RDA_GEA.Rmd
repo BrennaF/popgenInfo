@@ -385,7 +385,7 @@ Overall, **RDA** is an effective means of detecting adaptive processes that resu
 * Brenna R. Forester (Author)
 
 * Martin Laporte (reviewer)
-* Stéphanie Manel (reviewer)
+* StÃ©phanie Manel (reviewer)
 
 
 
@@ -397,7 +397,7 @@ Dormann CF, Elith J, Bacher S, et al. (2013) [Collinearity: a review of methods 
 
 Forester BR, Lasky JR, Wagner HH, Urban DL (2018) [Comparing methods for detecting multilocus adaptation with multivariate genotype-environment associations](https://www.biorxiv.org/content/early/2017/12/17/129460). *Molecular Ecology*.
 
-Frichot E, François O (2015) [LEA: An R package for landscape and ecological association studies](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12382/abstract). *Methods in Ecology and Evolution*, 6: 925-929.
+Frichot E, FranÃ§ois O (2015) [LEA: An R package for landscape and ecological association studies](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12382/abstract). *Methods in Ecology and Evolution*, 6: 925-929.
 
 Geffen E, Anderson MJ, Wayne RK (2004) [Climate and habitat barriers to dispersal in the highly mobile grey wolf](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2004.02244.x/full). *Molecular Ecology*, 13: 2481-2490.
 
